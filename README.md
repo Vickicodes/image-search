@@ -1,8 +1,5 @@
 # Image Search
 
-# Live Site
-https://vickicodes.github.io/image-search/.
-
 # Motivation
 
 This is my first React project the aim of which was to understand more about React
